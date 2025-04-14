@@ -1,0 +1,4 @@
+Algorithms:
+
+count_if.
+find_if.
